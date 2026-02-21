@@ -89,3 +89,17 @@ body {
 .audio-player {
   width: 100%;
 }
+
+
+.logo-max {
+  --logo-size: 520px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 24px;
+}
+
+.logo-max img {
+  width: var(--logo-size);
+  height: auto;
+  display: block;
+}
