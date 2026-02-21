@@ -60,19 +60,24 @@ body {
   transition: all 0.2s ease;
 }
 
-.primary {
-  background: #111;
+.portfolio {
+  background: #0000ff;
   color: #fff;
 }
 
-.secondary {
-  background: #f0f0f0;
-  color: #111;
+.letter {
+  background: #111;
+  color: #fff;
 }
 
 .linkedin {
   background: #0a66c2;
   color: #fff;
+}
+
+.primary {
+  background: #d9d9d9;
+  color: #111;
 }
 
 .btn:hover {
@@ -89,7 +94,6 @@ body {
 .audio-player {
   width: 100%;
 }
-
 
 .logo-max {
   --logo-size: 520px;
